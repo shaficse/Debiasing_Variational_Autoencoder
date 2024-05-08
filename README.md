@@ -1,5 +1,5 @@
 # Debiasing_Variational_Autoencoder
-In the second repository, we'll explore two prominent aspects of applied deep learning: facial detection and algorithmic bias.
+ we'll explore two prominent aspects of applied deep learning: facial detection and algorithmic bias.
 
 Deploying fair, unbiased AI systems is critical to their long-term acceptance. Consider the task of facial detection: given an image, is it an image of a face? This seemingly simple, but extremely important, task is subject to significant amounts of algorithmic bias among select demographics.
 
